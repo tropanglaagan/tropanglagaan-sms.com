@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="51" viewBox="0 0 300 51">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299.985" height="51.334" viewBox="0 0 187 32">
   <defs>
     <style>
       .cls-1 {
         font-size: 33.333px;
         fill: #fed136;
-        font-family: Mathline;
+        font-family: "Brush Script MT";
+        font-style: italic;
       }
     </style>
   </defs>
-  <image id="Background" width="300" height="51" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAAzCAYAAAAtijWPAAAAw0lEQVR4nO3UAQkAQRDEsP3373lORyGxUOi3bQcQ8IsEVBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgW0HB3DxlQBGJvrAHPAAAAAElFTkSuQmCC"/>
-  <text id="Sirok_d_Original" data-name="Sirok d&apos; Original" class="cls-1" transform="translate(14.595 42.687) scale(1.442)">Sirok d&apos; Original</text>
+  <image id="Background" width="187" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAAzCAYAAAAtijWPAAAAw0lEQVR4nO3UAQkAQRDEsP3373lORyGxUOi3bQcQ8IsEVBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgWkGFYQIZhARmGBWQYFpBhWECGYQEZhgVkGBaQYVhAhmEBGYYFZBgW0HB3DxlQBGJvrAHPAAAAAElFTkSuQmCC"/>
+  <text id="Sirok_d_Original" data-name="Sirok d&apos; Original" class="cls-1" transform="translate(0.942 23.306) scale(0.954 0.961)">Sirok d&apos; Original</text>
 </svg>
