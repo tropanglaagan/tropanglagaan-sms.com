@@ -7,11 +7,9 @@
         stroke-width: 1px;
         font-size: 33.333px;
         fill: #fed136;
-        font-family: Roboto;
-        font-weight: 500;
-        font-style: italic;
+        font-family: "Kaushan Script";
       }
     </style>
   </defs>
-  <text id="Sirok_d_Original" data-name="Sirok d&apos; Original" class="cls-1" transform="matrix(1.187, 0, 0, 1.187, 0, 42.573)">Sirok d&apos; Original</text>
+  <text id="Sirok_d_Original" data-name="Sirok d&apos; Original" class="cls-1" transform="matrix(1.187, 0, 0, 1.187, -0.973, 36.384)">Sirok d&apos; Original</text>
 </svg>
