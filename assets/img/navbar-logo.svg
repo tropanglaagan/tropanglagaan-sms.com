@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="52" viewBox="0 0 300 52">
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="24" viewBox="0 0 140 24">
   <defs>
     <style>
       .cls-1 {
+        stroke: #fed136;
+        stroke-linejoin: round;
+        stroke-width: 1px;
         font-size: 33.333px;
         fill: #fed136;
         font-family: Mathline;
       }
     </style>
   </defs>
-  <text id="Sirok_d_Original" data-name="Sirok d&apos; Original" class="cls-1" transform="translate(10.396 43.305) scale(1.475)">Sirok d&apos; Original</text>
+  <text id="Sirok_d_Original" data-name="Sirok d&apos; Original" class="cls-1" transform="matrix(0.647, 0, 0, 0.647, 9.029, 20.372)">Sirok d&apos; Original</text>
 </svg>
